@@ -43,7 +43,7 @@ const renderizar = (function() {
     document.body.appendChild(cH1)
 
     let item = document.createElement('periodo')
-    item.innerText='item'
+    item.innerText='Item'
     let valor = document.createElement('periodo')
     valor.innerText='Valor'
 
